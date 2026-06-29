@@ -34,18 +34,26 @@ Training notebooks are included to help you customize and fine-tune models to su
 
 ## 🎮 Demo Video
 
-https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_VIDEO_ASSET_ID
+https://github.com/user-attachments/assets/321aba91-cffd-4fd1-80b4-f80117308c88
 
-> **Note:** GitHub doesn't allow direct video embeds via Markdown syntax (`![]()` only works for images/GIFs). To get a real inline player like the one above:
-> 1. Open this README in the GitHub web editor (or any GitHub issue/PR comment box).
-> 2. Drag and drop your `.mp4` file directly into the text area.
-> 3. GitHub will upload it and auto-generate a `https://github.com/user-attachments/assets/...` link — paste that link on its own line, exactly as shown above, and it renders as a playable video.
-
-Alternatively, until the asset is uploaded, you can keep a clickable thumbnail fallback:
-
-[![Basketball Analysis Demo](https://img.youtube.com/vi/xWpP0LjEUng/0.jpg)](https://youtu.be/xWpP0LjEUng)
+https://github.com/user-attachments/assets/007cc47d-0a79-4c05-92a8-f1d3d1777f4f
 
 ---
+
+## 📸 Output Screenshots
+
+Sample frames from the annotated output, showing player/ball tracking, team colors, court keypoints, and tactical view in action:
+
+| Player & Ball Tracking | Team Assignment |
+|---|---|
+| ![Player and ball tracking](output_ss/output_1.png) | ![Team assignment](output_ss/output_2.png) |
+
+| Court Keypoints | Tactical View |
+|---|---|
+| ![Court keypoints](output_ss/output_3.png) | ![Tactical view](output_ss/output_4.png) |
+
+---
+
 
 ## 🔧 Prerequisites
 
