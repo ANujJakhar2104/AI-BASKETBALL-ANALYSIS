@@ -36,7 +36,7 @@ Training notebooks are included to help you customize and fine-tune models to su
 
 https://github.com/user-attachments/assets/321aba91-cffd-4fd1-80b4-f80117308c88
 
-https://github.com/user-attachments/assets/007cc47d-0a79-4c05-92a8-f1d3d1777f4f
+https://github.com/user-attachments/assets/ef762554-e682-4ee4-9c57-4a518341d3dc
 
 ---
 
